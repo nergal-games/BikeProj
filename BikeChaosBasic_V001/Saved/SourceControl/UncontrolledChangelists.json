@@ -6,6 +6,15 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/bad_w/Desktop/Biker/BikeChaosBasic_V001/Content/VehicleTemplate/Input/IMC_Default.uasset",
+				"C:/Users/bad_w/Desktop/BikeNude/BikeChaosBasic_V001/Content/Vehicles/PhysicsMaterials/NonSlippery.uasset",
+				"C:/Users/bad_w/Desktop/BikeNude/BikeChaosBasic_V001/Content/Vehicles/PhysicsMaterials/Slippery.uasset",
+				"C:/Users/bad_w/Desktop/BikeNude/BikeChaosBasic_V001/Content/Vehicles/BikeBasic/bike_basic_PhysicsAsset.uasset",
+				"C:/Users/bad_w/Desktop/BikeNude/BikeChaosBasic_V001/Content/VehicleTemplate/Blueprints/BikeBasic/BikeBasic_Pawn.uasset",
+				"C:/Users/bad_w/Desktop/BikeNude/BikeChaosBasic_V001/Content/VehicleTemplate/Blueprints/BikeBasic/BikeBasic_WheelsFront.uasset",
+				"C:/Users/bad_w/Desktop/BikeNude/BikeChaosBasic_V001/Content/VehicleTemplate/Blueprints/SportsCar/SportsCar_TorqueCurve.uasset",
+				"C:/Users/bad_w/Desktop/BikeNude/BikeChaosBasic_V001/Content/VehicleTemplate/Input/Actions/IA_Jump.uasset",
+				"C:/Users/bad_w/Desktop/BikeNude/BikeChaosBasic_V001/Content/VehicleTemplate/Input/IMC_Default.uasset",
+				"C:/Users/bad_w/Desktop/BikeNude/BikeChaosBasic_V001/Content/VehicleTemplate/NewActorComponent.uasset",
 				"C:/Users/bad_w/Desktop/BikeNude/BikeChaosBasic_V001/Content/VehicleTemplate/Input/NewBlueprint.uasset"
 			]
 		}
